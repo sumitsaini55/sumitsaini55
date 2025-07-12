@@ -86,10 +86,10 @@ My core expertise includes **React.js**, **JavaScript**, **Redux**, **Node.js**,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit01-tech&count_private=true&show_icons=true&theme=light" height="150" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit01-tech&theme=vue-dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitsaini55&count_private=true&show_icons=true&theme=light" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsaini55&theme=vue-dark&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit01-tech&layout=compact&theme=light&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaini55&layout=compact&theme=light&hide_border=true" />
 </p>
