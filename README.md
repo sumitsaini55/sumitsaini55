@@ -37,14 +37,17 @@ My core expertise includes **React.js**, **JavaScript**, **Redux**, **Node.js**,
 - ✅ Currently exploring career opportunities in Full Stack Development  
 
 ---
+## 🚀 Recent Projects
 
+- 💡 Latest Project: Reebok clone  [deploy    ](https://steady-dasik-fea1e4.netlify.app/)    /    [      Repo  ](https://github.com/PrietyGoyal24/Reebok) – *Selected as a Top 10 Project at Masai School*
+- 💡 Suitify Music app  [deploy    ](https://suitify-music.netlify.app/)    /    [      Repo  ](https://github.com/sumitsaini55/Suitify_music_app) - *That suits your mood😍*
+
+---
 ## 📫 Connect with Me
 
 - 🌍 Portfolio:   
 - ✉️ Email: [sumitsaini1968@gmail.com](mailto:sumitsaini1968@gmail.com)  
 - 💼 LinkedIn: [sumit-saini-13b136242](https://www.linkedin.com/in/sumit-saini-13b136242/)  
-- 💡 Latest Project: Reebok clone  [deploy    ](https://steady-dasik-fea1e4.netlify.app/)    /    [      Repo  ](https://github.com/PrietyGoyal24/Reebok) – *Selected as a Top 10 Project at Masai School*
-- 💡 Suitify Music app  [deploy    ](https://suitify-music.netlify.app/)    /    [      Repo  ](https://github.com/sumitsaini55/Suitify_music_app)
 
 ---
 
